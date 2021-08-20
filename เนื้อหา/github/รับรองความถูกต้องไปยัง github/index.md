@@ -1,3 +1,4 @@
+[release-8.2.txt](https://github.com/github/docs/files/7022480/release-8.2.txt)
 ---
 title: Authenticating to GitHub
 shortTitle: Authentication
