@@ -1,4 +1,4 @@
----
+---/articles/adding-a-new-ssh-key-to-the-ssh-agent/
 title: '{% data variables.product.product_name %}{% ifversion fpt %}.com{% endif %} Help Documentation'
 featuredLinks:
   gettingStarted:
