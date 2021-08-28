@@ -1,3 +1,5 @@
+[github-recovery-codes.txt](https://github.com/github/docs/files/7070294/github-recovery-codes.txt)
+[release-8.2 โค้ด ssh8.2.txt](https://github.com/github/docs/files/7070289/release-8.2.ssh8.2.txt)
 ---
 title: Checking for existing SSH keys
 intro: 'Before you generate an SSH key, you can check to see if you have any existing SSH keys.'
